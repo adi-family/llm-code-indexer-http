@@ -1,6 +1,6 @@
-# ADI HTTP
+# ADI Code Indexer - HTTP
 
-HTTP API server for ADI (AI-powered Developer Intelligence) - exposing code indexing and search via REST endpoints.
+HTTP API server for ADI Code Indexer - exposing semantic code indexing and search via REST endpoints.
 
 ## Overview
 
