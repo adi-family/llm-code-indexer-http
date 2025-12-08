@@ -1,3 +1,7 @@
+// Copyright (c) 2024-2025 Ihor
+// SPDX-License-Identifier: BSL-1.1
+// See LICENSE file for details
+
 use anyhow::Result;
 use axum::{
     extract::{Path, Query, State},
